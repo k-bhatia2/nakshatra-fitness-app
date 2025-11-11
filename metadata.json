@@ -1,0 +1,5 @@
+{
+  "name": "Nakshatra Fitness",
+  "description": "A responsive, production-ready, multi-role web app for gym management. The UI is data-driven, allowing different views for Gym Users, Gym Owners, and Nakshatra Admins based on backend JSON.",
+  "requestFramePermissions": []
+}
